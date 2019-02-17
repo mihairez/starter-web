@@ -7,6 +7,8 @@
 
 # THANKS
 
+Multumesc mie.
+
     <name>
 
 # TECHNOLOGY COLOPHON
