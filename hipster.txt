@@ -1,2 +1,4 @@
+another line
+
 My first new file for this git add
 New line pleaase.
